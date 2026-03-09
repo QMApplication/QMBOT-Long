@@ -1,0 +1,220 @@
+{
+    "734468552903360594": {
+        "Society_And_Culture": {
+            "correct": 18,
+            "attempts": 42
+        },
+        "Arts_And_Literature": {
+            "correct": 7,
+            "attempts": 34
+        },
+        "Science": {
+            "correct": 20,
+            "attempts": 35
+        },
+        "Film_And_Tv": {
+            "correct": 14,
+            "attempts": 36
+        },
+        "Food_And_Drink": {
+            "correct": 13,
+            "attempts": 24
+        },
+        "History": {
+            "correct": 10,
+            "attempts": 25
+        },
+        "Music": {
+            "correct": 12,
+            "attempts": 25
+        },
+        "Geography": {
+            "correct": 11,
+            "attempts": 30
+        },
+        "General_Knowledge": {
+            "correct": 4,
+            "attempts": 13
+        },
+        "Sport_And_Leisure": {
+            "correct": 5,
+            "attempts": 13
+        }
+    },
+    "1400876118587871302": {
+        "Film_And_Tv": {
+            "correct": 69,
+            "attempts": 163
+        },
+        "Music": {
+            "correct": 68,
+            "attempts": 137
+        },
+        "Arts_And_Literature": {
+            "correct": 58,
+            "attempts": 149
+        },
+        "Science": {
+            "correct": 91,
+            "attempts": 137
+        },
+        "Society_And_Culture": {
+            "correct": 84,
+            "attempts": 147
+        },
+        "History": {
+            "correct": 49,
+            "attempts": 116
+        },
+        "Food_And_Drink": {
+            "correct": 49,
+            "attempts": 86
+        },
+        "Geography": {
+            "correct": 81,
+            "attempts": 133
+        },
+        "Sport_And_Leisure": {
+            "correct": 25,
+            "attempts": 57
+        },
+        "General_Knowledge": {
+            "correct": 21,
+            "attempts": 38
+        }
+    },
+    "804277913833701397": {
+        "Music": {
+            "correct": 50,
+            "attempts": 94
+        },
+        "Science": {
+            "correct": 46,
+            "attempts": 82
+        },
+        "Film_And_Tv": {
+            "correct": 43,
+            "attempts": 101
+        },
+        "Food_And_Drink": {
+            "correct": 41,
+            "attempts": 72
+        },
+        "Arts_And_Literature": {
+            "correct": 33,
+            "attempts": 95
+        },
+        "Society_And_Culture": {
+            "correct": 55,
+            "attempts": 93
+        },
+        "Geography": {
+            "correct": 45,
+            "attempts": 102
+        },
+        "General_Knowledge": {
+            "correct": 12,
+            "attempts": 26
+        },
+        "Sport_And_Leisure": {
+            "correct": 13,
+            "attempts": 42
+        },
+        "History": {
+            "correct": 26,
+            "attempts": 71
+        }
+    },
+    "533391601452580874": {
+        "Arts_And_Literature": {
+            "correct": 0,
+            "attempts": 5
+        },
+        "Music": {
+            "correct": 1,
+            "attempts": 3
+        },
+        "Society_And_Culture": {
+            "correct": 0,
+            "attempts": 2
+        },
+        "Science": {
+            "correct": 1,
+            "attempts": 1
+        },
+        "Film_And_Tv": {
+            "correct": 0,
+            "attempts": 1
+        },
+        "Geography": {
+            "correct": 0,
+            "attempts": 2
+        },
+        "History": {
+            "correct": 0,
+            "attempts": 2
+        },
+        "General_Knowledge": {
+            "correct": 0,
+            "attempts": 1
+        }
+    },
+    "1160566892008833034": {
+        "Arts_And_Literature": {
+            "correct": 0,
+            "attempts": 1
+        },
+        "Music": {
+            "correct": 1,
+            "attempts": 1
+        },
+        "Film_And_Tv": {
+            "correct": 0,
+            "attempts": 1
+        }
+    },
+    "992730031891697697": {
+        "Film_And_Tv": {
+            "correct": 0,
+            "attempts": 1
+        },
+        "Arts_And_Literature": {
+            "correct": 0,
+            "attempts": 1
+        },
+        "Geography": {
+            "correct": 0,
+            "attempts": 1
+        }
+    },
+    "421959520898514945": {
+        "Food_And_Drink": {
+            "correct": 1,
+            "attempts": 1
+        },
+        "Film_And_Tv": {
+            "correct": 1,
+            "attempts": 1
+        },
+        "Science": {
+            "correct": 4,
+            "attempts": 4
+        },
+        "Geography": {
+            "correct": 1,
+            "attempts": 1
+        },
+        "History": {
+            "correct": 2,
+            "attempts": 2
+        },
+        "Society_And_Culture": {
+            "correct": 1,
+            "attempts": 1
+        },
+        "Arts_And_Literature": {
+            "correct": 23,
+            "attempts": 23
+        }
+    }
+}
